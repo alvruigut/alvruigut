@@ -1,19 +1,9 @@
 <!-- Header principal -->
 <h1 align="center">Álvaro Ruiz Gutiérrez</h1>
 
-<!-- Avatar circular -->
-<p align="center">
-  <img 
-    src="./nftLogo.png" 
-    alt="Avatar de Álvaro Ruiz Gutiérrez" 
-    width="185" 
-    height="185"
-    style="border-radius: 50%; object-fit: cover; border: 4px solid #F73C5C;"
-  />
-</p>
 
 <p align="center">
-  <b>Software Engineering | Pentester Junior | OSCP | OSCP+ | eCPPT | eJPT</b>
+  <b>Software Engineering | Pentester Junior | OSCP | OSCP+ | eCPPTv3 | eJPTv2</b>
 </p>
 
 <!-- Animación de typing -->
@@ -37,13 +27,7 @@
 <tr>
 <td>
 
-- 👨‍💻 **Ingeniero Informático del Software** por la **Universidad de Sevilla**.
-- 🛠️ Base sólida en **programación, desarrollo web, backend, frontend y arquitectura de software**.
-- 🚀 Experiencia creando proyectos con **React, TypeScript, Python, FastAPI, Java, Spring Boot y Docker**.
-- 🔐 Enfoque progresivo hacia **ciberseguridad ofensiva**, especialmente **pentesting web**, **Active Directory**, **WiFi** y auditoría técnica.
-- 🧪 He trabajado en laboratorios técnicos, máquinas vulnerables, entornos Linux/Windows y proyectos de auditoría.
-- 📚 Certificaciones: **OSCP, OSCP+, eCPPT, eJPT, CCST Cybersecurity e IT Specialist - Cybersecurity**.
-- 🎯 Buscando crecer como **Software Engineer** con mentalidad de seguridad y como futuro **Pentester / Red Team Junior**.
+Soy Álvaro Ruiz Gutiérrez, Ingeniero del Software por la Universidad de Sevilla y Pentester Junior.
 
 </td>
 <td>
