@@ -4,7 +4,7 @@
 <!-- Avatar circular -->
 <p align="center">
   <img 
-    src="./public/nft.png" 
+    src="./public/nftLogo.png" 
     alt="Avatar de Álvaro Ruiz Gutiérrez" 
     width="185" 
     height="185"
