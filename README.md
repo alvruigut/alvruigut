@@ -8,23 +8,6 @@
 
 ---
 
-## 🧠 Sobre mí
-
-<table>
-<tr>
-<td>
-
-Soy Álvaro Ruiz Gutiérrez, Ingeniero del Software por la Universidad de Sevilla y Pentester Junior.
-
-</td>
-<td>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" height="210">
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Lenguajes, Frameworks & Desarrollo**
