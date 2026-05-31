@@ -1,23 +1,10 @@
-<!-- Header principal -->
-<h1 align="center">Álvaro Ruiz Gutiérrez</h1>
 
 
-<p align="center">
-  <b>Software Engineering | Pentester Junior | OSCP | OSCP+ | eCPPTv3 | eJPTv2</b>
-</p>
 
 <!-- Animación de typing -->
 <p align="center">
   <a href="https://github.com/alvruigut">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F73C5C&center=true&vCenter=true&width=760&lines=Ingeniero+del+Software;Full-Stack+Developer;Pentester+Junior;Construyendo+software+con+mentalidad+ofensiva;Aprendiendo%2C+rompiendo+y+mejorando" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Software%20%7C%20Pentesting-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-blue?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=alvruigut&color=F73C5C&style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=700&color=39FF14&background=00000000&center=true&vCenter=true&width=900&lines=root%40github%3A~%24+whoami;%C3%81lvaro+Ruiz+Guti%C3%A9rrez" alt="Typing SVG" /></p>
 
 ---
 
@@ -35,14 +22,6 @@ Soy Álvaro Ruiz Gutiérrez, Ingeniero del Software por la Universidad de Sevill
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alvruigut&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -89,109 +68,6 @@ Soy Álvaro Ruiz Gutiérrez, Ingeniero del Software por la Universidad de Sevill
 
 ---
 
-## 🚀 Proyectos Destacados
-
-<p align="center">
-
-  <!-- Portfolio -->
-  <a href="https://github.com/alvruigut/alvruigut.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Técnico-React%20%7C%20TypeScript%20%7C%20Vite-F73C5C?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-
-</p>
-
-<p align="center">
-  🧑‍💻 Web personal tipo terminal para centralizar proyectos, writeups, certificaciones y contacto.  
-  <br>
-  <b>Stack:</b> React · TypeScript · Vite · CSS · GitHub Pages
-</p>
-
-<hr>
-
-<p align="center">
-
-  <!-- AD-Hacking -->
-  <a href="https://github.com/alvruigut/AD-Hacking" target="_blank">
-    <img src="https://img.shields.io/badge/AD--Hacking-Full--Stack%20Security%20Tool-0078D4?style=for-the-badge&logo=typescript&logoColor=white" />
-  </a>
-
-</p>
-
-<p align="center">
-  🛡️ Plataforma para registrar hallazgos, evidencias y entidades durante auditorías autorizadas de Active Directory.  
-  <br>
-  <b>Stack:</b> FastAPI · Python · React · TypeScript · Vite · PostgreSQL · Docker
-</p>
-
-<hr>
-
-<p align="center">
-
-  <!-- TFG -->
-  <a href="https://github.com/alvruigut/TFG" target="_blank">
-    <img src="https://img.shields.io/badge/TFG-Auditoría%20de%20Ciberseguridad%20para%20PYMEs-8A2BE2?style=for-the-badge&logo=latex&logoColor=white" />
-  </a>
-
-</p>
-
-<p align="center">
-  📘 Trabajo Fin de Grado centrado en el diseño de una metodología de auditoría de ciberseguridad aplicada a PYMEs.  
-  <br>
-  <b>Áreas:</b> NIST · auditoría técnica · análisis de riesgos · TI/OT · documentación profesional
-</p>
-
-<hr>
-
-<p align="center">
-
-  <!-- IA -->
-  <a href="https://github.com/alvruigut/IA-AprendizajePorRefuerzo" target="_blank">
-    <img src="https://img.shields.io/badge/IA%20Aprendizaje%20por%20Refuerzo-Robótica%20Móvil-FFB000?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-
-</p>
-
-<p align="center">
-  🤖 Proyecto académico de Inteligencia Artificial aplicado a planificación de rutas para robótica móvil.  
-  <br>
-  <b>Algoritmos:</b> Q-Learning · Monte Carlo · SARSA · Jupyter Notebook · LaTeX
-</p>
-
-<hr>
-
-<p align="center">
-
-  <!-- CriptoCash -->
-  <a href="https://github.com/alvruigut/CriptoCash" target="_blank">
-    <img src="https://img.shields.io/badge/CriptoCash-Criptografía%20%7C%20Python-2E8B57?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-
-</p>
-
-<p align="center">
-  💸 Sistema centralizado de criptomonedas con firmas digitales, validación de monedas y prevención de doble gasto.  
-  <br>
-  <b>Stack:</b> Python · SQLite · Tkinter · ECDSA · SHA-256 · NetworkX
-</p>
-
-<hr>
-
-<p align="center">
-
-  <!-- Inventario -->
-  <a href="https://github.com/alvruigut/Gestion-Inventario-Tienda" target="_blank">
-    <img src="https://img.shields.io/badge/Gestión%20Inventario%20Tienda-React%20%7C%20Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  </a>
-
-</p>
-
-<p align="center">
-  📦 Aplicación full-stack para gestión de inventario, ventas, ingresos, gastos, productos y control de stock.  
-  <br>
-  <b>Stack:</b> React · JavaScript · Spring Boot · MySQL
-</p>
-
----
 
 ## 📊 Estadísticas de GitHub
 
@@ -225,6 +101,3 @@ Soy Álvaro Ruiz Gutiérrez, Ingeniero del Software por la Universidad de Sevill
 
 ---
 
-<p align="center">
-  <i>Software Engineering first. Security mindset always.</i>
-</p>
