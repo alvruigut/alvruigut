@@ -1,9 +1,11 @@
 
-
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2400&pause=3600&color=35FF9F&center=true&vCenter=true&width=940&lines=%C3%81lvaro+Ruiz+Guti%C3%A9rrez" alt="Typing animation" />
 </p>
+
+---
 
 <p align="center">
   <img src="./assets/terminal-typing.gif" alt="RuyzTz7 terminal banner" width="100%" />
@@ -18,6 +20,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2400&pause=3600&color=35FF9F&center=true&vCenter=true&width=940&lines=Skills" alt="Typing animation" />
 </p>
 
+---
 
 <h3>Languages & Tools</h3>
 
@@ -108,6 +111,8 @@
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2400&pause=3600&color=35FF9F&center=true&vCenter=true&width=940&lines=Contact" alt="Typing animation" />
 </p>
+
+---
 
 <p align="center">
   <a href="https://alvruigut.github.io/"><img src="./assets/favicon-monkey.png" alt="Portfolio" width="42" /></a>
