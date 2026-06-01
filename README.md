@@ -60,8 +60,8 @@
 <td><span style="color:#35FF9F;">▰▰▰▰▰▰▱▱▱▱</span></td>
 </tr>
 <tr>
-<td><img src="https://skillicons.dev/icons?i=c" width="28"/></td>
-<td><b>C</b></td>
+<td><img src="https://skillicons.dev/icons?i=react" width="28"/></td>
+<td><b>React</b></td>
 <td><span style="color:#35FF9F;">▰▰▰▰▰▰▱▱▱▱</span></td>
 </tr>
 </table>
@@ -91,14 +91,19 @@
 <td><span style="color:#35FF9F;">▰▰▰▰▱▱▱▱▱▱</span></td>
 </tr>
 <tr>
+<td><img src="https://skillicons.dev/icons?i=docker" width="28"/></td>
+<td><b>Docker</b></td>
+<td><span style="color:#35FF9F;">▰▰▰▰▰▰▰▱▱▱</span></td>
+</tr>
+<tr>
 <td><img src="https://skillicons.dev/icons?i=linux" width="28"/></td>
 <td><b>Linux</b></td>
 <td><span style="color:#35FF9F;">▰▰▰▰▰▰▰▰▰▱</span></td>
 </tr>
 <tr>
-<td><img src="https://skillicons.dev/icons?i=git" width="28"/></td>
-<td><b>Git/GitHub</b></td>
-<td><span style="color:#35FF9F;">▰▰▰▰▰▰▰▰▱▱</span></td>
+<td><img src="https://skillicons.dev/icons?i=c" width="28"/></td>
+<td><b>C</b></td>
+<td><span style="color:#35FF9F;">▰▰▰▰▰▰▱▱▱▱</span></td>
 </tr>
 </table>
 
