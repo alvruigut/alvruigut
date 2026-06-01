@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal-typing.gif" alt="RuyzTz7 terminal banner" width="100%" />
+  <b>Junior Pentester | Software Engineer | OSCP · OSCP+ · eCPPT · eJPT</b>
+</p>
+
+<p align="center">
+  Passionate about offensive security, Active Directory, Linux, web pentesting and building useful software.
 </p>
 
 ---
