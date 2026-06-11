@@ -16,9 +16,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2400&pause=3600&color=35FF9F&center=true&vCenter=true&width=940&lines=Skills" alt="Skills" />
 </p>
 
+<div align="center">
+
 <h3>Languages & Tools</h3>
 
-<table>
+<table align="center">
 <tr>
 <td valign="top">
 
@@ -61,6 +63,7 @@
 </table>
 
 </td>
+<td width="40"></td>
 <td valign="top">
 
 <table>
@@ -104,6 +107,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
