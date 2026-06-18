@@ -121,7 +121,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/alvruigut"><img src="https://skillicons.dev/icons?i=github" alt="Github" width="42" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/%C3%A1lvaro-ruiz-guti%C3%A9rrez-515684314/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="42" /></a>
+  <a href="https://www.linkedin.com/in/alvaro-ruiz-gutierrez/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="42" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:alvarorugu7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="42" /></a>
 </p>
